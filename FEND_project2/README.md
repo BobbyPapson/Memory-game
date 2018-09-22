@@ -1,7 +1,13 @@
 # Memory Game Project
+This starter project is for the Udacity Memory Game project. Requirements are described at this link: 
+https://review.udacity.com/#!/rubrics/591/view
 
 ## What is the Memory Game
 The memory game is a classic remake of "concentration" in which there are 12 cards, 4 x 4 rows and columns that have randomly shuffled icons on their backside. The cards are displayed briefly and the users memory is challenged to match up previously shown cards in order to make a pair.
+
+## Contributions
+* Bootstrap
+* Font Awesome
 
 ## Challenge
 Match the 6 pairs of cards as quickly as possible, while taking as few moves as possible.
