@@ -8,7 +8,8 @@ Match the 6 pairs of cards as quickly as possible, while taking as few moves as 
 
 ## How to Play
 The game automatically begins once the user selects two cards, initializing the first pair-matching attempt. The timer will begin and the rank (in stars) will begin to decline based on the number of turns taken before completion of the game.
-play here - file:///Users/Bobbaayyy/Desktop/Udacity/FEND_project2/index.html
+
+play here - https://www.bobbypapson.com/front-end-development
 
 ## Instructions
 * Click on the first card
